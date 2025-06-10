@@ -73,3 +73,10 @@ h2 {
     border-radius: 5px;
     margin-top: 5px;
 }
+
+.banner-image {
+    display: block; /* Make the image a block element */
+    margin: 0 auto; /* Center the image horizontally */
+    width: 50%; /* Set a width for the image */
+    height: auto; /* Maintain aspect ratio */
+}
